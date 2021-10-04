@@ -1,0 +1,18 @@
+{
+"request": {
+"method": "GET",
+"url": "/api/reviews"
+},
+"response": {
+"status": 200,
+"headers":
+ {
+ "Content-Type" : "application/json",
+ "Access-Control-Allow-Origin" : "*",
+ "Access-Control-Allow-Methods" : "*",
+ "Access-Control-Allow-Headers": "Accept, Content-Type, Content-Encoding, Server,Transfer-Encoding"
+ },
+"bodyFileName": "../__files/reviews.json"
+}
+
+}

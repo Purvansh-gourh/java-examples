@@ -1,0 +1,15 @@
+[
+{
+"id": 101,
+"reviewerName": "ramesh",
+"review": "execellent",
+"rating": 4.5
+},
+{
+"id": 102,
+"reviewerName": "shiv",
+"review": "amazing product",
+"rating": 4.2
+}
+
+]

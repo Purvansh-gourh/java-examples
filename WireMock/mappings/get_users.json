@@ -1,0 +1,11 @@
+{
+"request": {
+"method": "GET",
+"url": "/api/users"
+},
+"response": {
+"status": 200,
+"bodyFileName": "../__files/users.json"
+}
+
+}
